@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  c+_exp3_hugeint.cpp
+e:\0c++ program\y\c+_exp3_hugeint\c+_exp3_hugeint\hugeinteger.h(178): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\0c++ program\y\c+_exp3_hugeint\c+_exp3_hugeint\hugeinteger.h(218): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+  c+_exp3_hugeint.vcxproj -> E:\0c++ program\Y\c+_exp3_hugeint\Debug\c+_exp3_hugeint.exe
+  c+_exp3_hugeint.vcxproj -> E:\0c++ program\Y\c+_exp3_hugeint\Debug\c+_exp3_hugeint.pdb (Full PDB)

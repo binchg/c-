@@ -1,0 +1,6 @@
+﻿  c+_exp3_hugeint.cpp
+e:\0c++ program\y\c+_exp3_hugeint\c+_exp3_hugeint\hugeinteger.h(34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\0c++ program\y\c+_exp3_hugeint\c+_exp3_hugeint\hugeinteger.h(107): warning C4800: “int”: 将值强制为布尔值“true”或“false”(性能警告)
+e:\0c++ program\y\c+_exp3_hugeint\c+_exp3_hugeint\hugeinteger.h(146): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  c+_exp3_hugeint.vcxproj -> E:\0c++ program\Y\c+_exp3_hugeint\x64\Debug\c+_exp3_hugeint.exe
+  c+_exp3_hugeint.vcxproj -> E:\0c++ program\Y\c+_exp3_hugeint\x64\Debug\c+_exp3_hugeint.pdb (Full PDB)
